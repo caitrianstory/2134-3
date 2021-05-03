@@ -1,0 +1,26 @@
+{
+  "name": "2134-3",
+  "version": "0.0.2",
+  "description": "learn express.js for robots",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caitrianstory/2134-3.git"
+  },
+  "keywords": [
+    "robots",
+    "express"
+  ],
+  "author": "Caitrian Story",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caitrianstory/2134-3/issues"
+  },
+  "homepage": "https://github.com/caitrianstory/2134-3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
